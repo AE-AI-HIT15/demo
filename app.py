@@ -13,3 +13,5 @@ print("C5 cloud")
 
 # Demo conflict from local2 
 print("C5 local2")
+# Demo conflict from cloud2 
+print("C5 cloud2")
